@@ -1,0 +1,1 @@
+rsync -rv --exclude="node_modules" ./* root@api.parallellapp.com:/var/www/api
